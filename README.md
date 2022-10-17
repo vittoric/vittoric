@@ -14,7 +14,6 @@
 - etc...
 
 ## 💻 Current project
-- //[financial-go](https://github.com/Jvillegasd/financial-go)
 
 ## 📚 Learning
 
