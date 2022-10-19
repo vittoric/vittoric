@@ -4,7 +4,7 @@
 
 ## [Libft](../../../Libft)
 First project as a student of 42Madrid. <br>
-In the [link](../../../Libft) you can find a libft tutorial in Spanish<br>
+In the [link](../../../Libft) you can find tutorial of this project in Spanish<br>
 [![vcodrean's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2815634)](https://github.com/JaeSeoKim/badge42)
 
 
