@@ -28,8 +28,8 @@ Reality:<br>
 - Linux command line usage<br>
 
 
-Objective | Personal interests
-:-----------: | :-----------: 
+| Objective | Personal interests| 
+|---------- | ----------------: | 
 To conquer the world of Linux and become the ultimate superuser | Hacking into secure systems (for educational purposes only)
 Gaining root access to the 42's server room and installing a secret arcade game  | Playing with firewalls
 Customizing the 42's login screen with memes | Bragging about my Linux skills
@@ -37,6 +37,12 @@ Customizing the 42's login screen with memes | Bragging about my Linux skills
 Reality                       |
 :-----------: 
  Bash scripting | Linux command line
+ 
+ | Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 
 
