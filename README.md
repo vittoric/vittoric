@@ -11,20 +11,6 @@ All suggestions on this are welcome 🖋 <br>
 ## [Born2beroot](../../../Born2beRoot)
 **Title: "Born2beroot: A Quest to Become the Ultimate Superuser"** <br> <br>
 
-Objective:  <br>
-- To conquer the world of Linux and become the ultimate superuser<br>
-- Gaining root access to the 42's server room and installing a secret arcade game<br>
-- Customizing the 42's login screen with memes<br> <br>
-
-Personal interests:<br>
-
-- Hacking into secure systems (for educational purposes only)<br>
-- Playing with firewalls<br>
-- Bragging about my Linux skills<br> <br>
-
-
-
-
 | Objective | Personal interests| 
 |:----------: | :----------------: | 
 To conquer the world of Linux and become the ultimate superuser | Hacking into secure systems (for educational purposes only)
