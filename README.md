@@ -28,14 +28,14 @@ Reality:<br>
 - Linux command line usage<br>
 
 
-Objective | Personal interests| 
-:-----------: | :-----------: | 
+Objective | Personal interests
+:-----------: | :-----------: 
 - To conquer the world of Linux and become the ultimate superuser<br>
 - Gaining root access to the 42's server room and installing a secret arcade game<br>
 - Customizing the 42's login screen with memes<br> <br> |
 - Hacking into secure systems (for educational purposes only)<br>
 - Playing with firewalls<br>
-- Bragging about my Linux skills<br> <br>|
+- Bragging about my Linux skills<br> <br>
 
 [![vcodrean's 42 Born2beRoot Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2815634)](https://github.com/JaeSeoKim/badge42)
 
