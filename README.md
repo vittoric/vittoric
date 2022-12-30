@@ -9,6 +9,14 @@ All suggestions on this are welcome 🖋 <br>
 [![vcodrean's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2815634)](https://github.com/JaeSeoKim/badge42)
 
 
+## ▪️ Github stats 📊
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoric&layout=compact&theme=algolia&hide_border=true)
+
+![vittoric's github stats](https://github-readme-stats.vercel.app/api?username=vittoric&show_icons=true&hide_border=true&theme=algolia)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vittoric.visitor-badge)
+
 ## 💬 Ask me about
 - 
 
