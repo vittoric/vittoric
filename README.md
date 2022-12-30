@@ -30,7 +30,8 @@ Personal interests:<br>
 To conquer the world of Linux and become the ultimate superuser | Hacking into secure systems (for educational purposes only)
 Gaining root access to the 42's server room and installing a secret arcade game  | Playing with firewalls
 Customizing the 42's login screen with memes | Bragging about my Linux skills|
-Reality:<br>
+
+**Reality:**<br>
 
 - Bash scripting<br>
 - Linux command line usage<br>
