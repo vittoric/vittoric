@@ -20,9 +20,9 @@ Personal interests:<br>
 
 - Hacking into secure systems (for educational purposes only)<br>
 - Playing with firewalls<br>
-- Bragging about my Linux skills<br>
+- Bragging about my Linux skills<br> <br>
 
-Reality:<br> <br>
+Reality:<br>
 
 - Bash scripting<br>
 - Linux command line usage<br>
