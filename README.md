@@ -12,10 +12,10 @@ All suggestions on this are welcome 🖋 <br>
 Title: "Born2beroot: A Quest to Become the Ultimate Superuser" <br> <br>
 
 Objective:  <br>
--To conquer the world of Linux and become the ultimate superuser.<br>
--Gaining root access to the school's server room and installing a secret arcade game<br>
--Customizing the school's login screen with memes<br>
--Creating a script that automatically updates all packages on all school computers <br>
+- To conquer the world of Linux and become the ultimate superuser.<br>
+- Gaining root access to the school's server room and installing a secret arcade game<br>
+- Customizing the school's login screen with memes<br>
+- Creating a script that automatically updates all packages on all school computers <br>
 
 Skills:<br> <br>
 
