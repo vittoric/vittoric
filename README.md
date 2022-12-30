@@ -33,6 +33,10 @@ Objective | Personal interests
 To conquer the world of Linux and become the ultimate superuser | Hacking into secure systems (for educational purposes only)
 Gaining root access to the 42's server room and installing a secret arcade game  | Playing with firewalls
 Customizing the 42's login screen with memes | Bragging about my Linux skills
+Reality |
+:-----------: |
+ Bash scripting
+
 
 
 [![vcodrean's 42 Born2beRoot Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2815634)](https://github.com/JaeSeoKim/badge42)
