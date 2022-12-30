@@ -9,7 +9,7 @@ All suggestions on this are welcome 🖋 <br>
 [![vcodrean's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2815634)](https://github.com/JaeSeoKim/badge42)
 
 ## [Born2beroot](../../../Born2beRoot)
-**Title: "Born2beroot: A Quest to Become the Ultimate Superuser" <br> <br>
+**Title: "Born2beroot: A Quest to Become the Ultimate Superuser"** <br> <br>
 
 Objective:  <br>
 - To conquer the world of Linux and become the ultimate superuser<br>
