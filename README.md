@@ -12,17 +12,21 @@ All suggestions on this are welcome 🖋 <br>
 Title: "Born2beroot: A Quest to Become the Ultimate Superuser" <br> <br>
 
 Objective:  <br>
-- To conquer the world of Linux and become the ultimate superuser.<br>
+- To conquer the world of Linux and become the ultimate superuser<br>
 - Gaining root access to the school's server room and installing a secret arcade game<br>
 - Customizing the school's login screen with memes<br>
-- Creating a script that automatically updates all packages on all school computers <br>
+- Creating a script that automatically updates all packages on all school computers <br><br>
 
-Skills:<br> <br>
+Personal interests:<br>
 
-Bash scripting<br>
-Linux command line usage<br>
-Problem-solving<br>
+- Hacking into secure systems (for educational purposes only)<br>
+- Playing with firewalls<br>
+- Bragging about my Linux skills<br>
 
+Reality:<br> <br>
+
+- Bash scripting<br>
+- Linux command line usage<br>
 
 [![vcodrean's 42 Born2beRoot Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2815634)](https://github.com/JaeSeoKim/badge42)
 
