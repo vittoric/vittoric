@@ -32,8 +32,7 @@ Objective | Personal interests
 :-----------: | :-----------: 
 To conquer the world of Linux and become the ultimate superuser
 Gaining root access to the 42's server room and installing a secret arcade game
-Customizing the 42's login screen with memes |
-Hacking into secure systems (for educational purposes only)
+Customizing the 42's login screen with memes | Hacking into secure systems (for educational purposes only)
 Playing with firewalls
 Bragging about my Linux skills
 
