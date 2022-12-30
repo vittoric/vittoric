@@ -11,18 +11,19 @@ All suggestions on this are welcome 🖋 <br>
 ## [Born2beroot](../../../Born2beRoot)
 Title: "Born2beroot: A Quest to Become the Ultimate Superuser" <br> <br>
 
-Objective: To conquer the world of Linux and become the ultimate superuser.<br> <br>
+Objective:  <br>
+-To conquer the world of Linux and become the ultimate superuser.<br>
+-Gaining root access to the school's server room and installing a secret arcade game<br>
+-Customizing the school's login screen with memes<br>
+-Creating a script that automatically updates all packages on all school computers <br>
 
 Skills:<br> <br>
 
 Bash scripting<br>
 Linux command line usage<br>
 Problem-solving<br>
-Experience:<br><br>
 
-Gaining root access to the school's server room and installing a secret arcade game<br>
-Customizing the school's login screen with memes<br>
-Creating a script that automatically updates all packages on all school computers <br>
+
 [![vcodrean's 42 Born2beRoot Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2815634)](https://github.com/JaeSeoKim/badge42)
 
 
