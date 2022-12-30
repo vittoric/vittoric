@@ -14,8 +14,7 @@ All suggestions on this are welcome 🖋 <br>
 Objective:  <br>
 - To conquer the world of Linux and become the ultimate superuser<br>
 - Gaining root access to the 42's server room and installing a secret arcade game<br>
-- Customizing the 42's login screen with memes<br>
-- Creating a script that automatically updates all packages on all 42 computers <br><br>
+- Customizing the 42's login screen with memes<br> <br>
 
 Personal interests:<br>
 
