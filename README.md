@@ -27,6 +27,10 @@ Customizing the 42's login screen with memes | Bragging about my Linux skills|
 ## [ft_printf](../../../ft_printf)
 [![vcodrean's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2815634)](https://github.com/JaeSeoKim/badge42)
 
+[![vcodrean's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2815634)](https://github.com/JaeSeoKim/badge42)
+
+get_next_line
+
 
 
 
