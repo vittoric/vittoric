@@ -35,7 +35,7 @@ Customizing the 42's login screen with memes | Bragging about my Linux skills|
 
 
 ## ▪️ Github stats 📊
-<details> <summary><h5>:rocket:  click me </h5></summary>
+<details> <summary><h4>:rocket: Click me </h4></summary>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoric&layout=compact&theme=algolia&hide_border=true)
