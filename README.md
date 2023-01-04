@@ -35,7 +35,7 @@ Customizing the 42's login screen with memes | Bragging about my Linux skills|
 
 
 
-
+<details>
 ## ▪️ Github stats 📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoric&layout=compact&theme=algolia&hide_border=true)
@@ -43,6 +43,7 @@ Customizing the 42's login screen with memes | Bragging about my Linux skills|
 ![vittoric's github stats](https://github-readme-stats.vercel.app/api?username=vittoric&show_icons=true&hide_border=true&theme=algolia)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vittoric.visitor-badge)
+  </details>
 
 ## 💬 Ask me about
 - 
