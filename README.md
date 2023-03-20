@@ -12,36 +12,6 @@
 | [**Pipex**](https://github.com/vittoric/pipex42) | [![vcodrean's 42 pipex Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/3016519)](https://github.com/JaeSeoKim/badge42) |
 
 
-## [Libft](../../../Libft)
-First project as a student of 42Madrid 🚀 <br>
-In the [link](../../../Libft) you can find tutorial 📖 of this project in Spanish<br>
-All suggestions on this are welcome 🖋 <br>
-[![vcodrean's 42 Libft Score]
-
-## [Born2beroot](../../../Born2beRoot)
-**Title: "Born2beroot: A Quest to Become the Ultimate Superuser" :alien:** <br> <br>
-
-| Objective | Personal interests| 
-|:----------: | :----------------: | 
-To conquer the world of Linux and become the ultimate superuser | Hacking into secure systems (for educational purposes only)
-Gaining root access to the 42's server room and installing a secret arcade game  | Playing with firewalls
-Customizing the 42's login screen with memes | Bragging about my Linux skills|
-
-**Reality:**<br>
-
-- Bash scripting<br>
-- Linux command line usage<br>
-
-[![vcodrean's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2851460)](https://github.com/JaeSeoKim/badge42)
-
-## [ft_printf](../../../ft_printf)
-[![vcodrean's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2914472)](https://github.com/JaeSeoKim/badge42)
-
-## [get_next_line](../../../get_next_line)
-
-[![vcodrean's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2926283)](https://github.com/JaeSeoKim/badge42)
-
-
 
 
 ## ▪️ Github stats 📊
