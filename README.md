@@ -4,7 +4,7 @@
 
  Project link 🔗🖥️ | Score✅ |
 |----------|---------|
-| [**Libft 🗄️**](https://github.com/vittoricd/libft) | [![crtorres's 42 Libft Score]((https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2815634)](https://github.com/JaeSeoKim/badge42)) |
+| [**Libft 🗄️**](https://github.com/vittoricd/libft) | [![vcodrean's 42 stats](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42) |
 | [**Ft_printf📝**](https://github.com/crkn07/ft_printf) | [![crtorres's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/2827755)](https://github.com/JaeSeoKim/badge42) |
 | **Born2beroot🦾** | [![crtorres's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/2820612)](https://github.com/JaeSeoKim/badge42) |
 | [**Get_next_line📌**](https://github.com/crkn07/get_next_line) | [![crtorres's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/2837234)](https://github.com/JaeSeoKim/badge42) |
