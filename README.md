@@ -2,11 +2,22 @@
 
 [![vcodrean's 42 stats](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
 
+ Project link 🔗🖥️ | Score✅ |
+|----------|---------|
+| [**Libft 🗄️**](https://github.com/vittoricd/libft) | [![crtorres's 42 Libft Score]((https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2815634)](https://github.com/JaeSeoKim/badge42)) |
+| [**Ft_printf📝**](https://github.com/crkn07/ft_printf) | [![crtorres's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/2827755)](https://github.com/JaeSeoKim/badge42) |
+| **Born2beroot🦾** | [![crtorres's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/2820612)](https://github.com/JaeSeoKim/badge42) |
+| [**Get_next_line📌**](https://github.com/crkn07/get_next_line) | [![crtorres's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/2837234)](https://github.com/JaeSeoKim/badge42) |
+| [**Exam rank02📣**](https://github.com/crkn07/examen-1) | [![crtorres's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/2913432)](https://github.com/JaeSeoKim/badge42) |
+| [**So Long🕹️**](https://github.com/crkn07/so_long_42) | [![crtorres's 42 so_long Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/2878596)](https://github.com/JaeSeoKim/badge42) |
+| **Pipex (in progress)↔️** | [![crtorres's 42 pipex Score](https://badge42.vercel.app/api/v2/clewxyk6x00060flbqd983yqz/project/3004793)](https://github.com/JaeSeoKim/badge42) |
+
+
 ## [Libft](../../../Libft)
 First project as a student of 42Madrid 🚀 <br>
 In the [link](../../../Libft) you can find tutorial 📖 of this project in Spanish<br>
 All suggestions on this are welcome 🖋 <br>
-[![vcodrean's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2815634)](https://github.com/JaeSeoKim/badge42)
+[![vcodrean's 42 Libft Score]
 
 ## [Born2beroot](../../../Born2beRoot)
 **Title: "Born2beroot: A Quest to Become the Ultimate Superuser" :alien:** <br> <br>
