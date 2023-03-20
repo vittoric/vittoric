@@ -1,4 +1,11 @@
  <h1 align="center">Hello there, I'm Vica, and welcome to my GitHub repository! 👋</h1>
+ 
+ ## 💬 Aabout me
+As a student at 42 Madrid, I have a strong passion for coding and developing new projects, and this repository is a showcase of my latest work. <br>
+
+Here you'll find a diverse range of projects, from simple scripts to complex applications, covering various programming languages and tools. Some of the projects include detailed documentation and instructions for getting started, making them accessible to developers. <br>
+
+Whether you're a seasoned developer or just starting out, I invite you to explore my code, fork the projects, and contribute as you see fit. With your help, we can create something truly amazing together. Thank you for stopping by, and happy coding! <br>
 
 [![vcodrean's 42 stats](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
  Project link 🔗🖥️ | Score✅ |
@@ -25,8 +32,6 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vittoric.visitor-badge)
   </details>
 
-## 💬 Ask me about
-- 
 
 ## 📅 Hobbies
 
