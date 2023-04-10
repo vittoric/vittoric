@@ -18,7 +18,7 @@ Whether you're a seasoned developer or just starting out, I invite you to explor
 | **Exam rank02📣** | [![vcodrean's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2972442)](https://github.com/JaeSeoKim/badge42) |
 | [**Push_Swap🕹️**](https://github.com/vittoric/push_swap) | [![vcodrean's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2989842)](https://github.com/JaeSeoKim/badge42) |
 | [**Pipex**](https://github.com/vittoric/pipex42) | [![vcodrean's 42 pipex Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/3016519)](https://github.com/JaeSeoKim/badge42) |
-| [**so_long**](https://github.com/vittoric/so_long42) | [![vcodrean's 42 stats](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42) |
+| [**so_long**](https://github.com/vittoric/so_long42) | [![vcodrean's 42 so_long Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/3036005)](https://github.com/JaeSeoKim/badge42) |
 
 
 
