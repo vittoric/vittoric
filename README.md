@@ -56,7 +56,7 @@
 <!-- How to Reach Me Section -->
 ## 📫 How to Reach Me
 
-You can reach out to me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+You can reach out to me at [vicoder.tech@gmail.com](mailto:vicoder.tech@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vcodrean/).
 
 <!-- Social Media Section -->
 ## 🌐 Connect with Me
