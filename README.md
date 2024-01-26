@@ -1,8 +1,7 @@
 <!-- Welcome Section -->
 <p align="center">
-  <img src="https://your-image-url.com" alt="Vica's GitHub Banner">
+  <img src="banner github.png" alt="Vica's GitHub Banner">
 </p>
-<h1 align="center">👋 Hello there, I'm Vica!</h1>
 
 <p align="center">
   <a href="https://vittoric.github.io/"><img src="https://img.shields.io/badge/Portfolio-Check%20it%20out!-brightgreen?style=for-the-badge" alt="Portfolio"></a>
