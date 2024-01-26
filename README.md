@@ -1,6 +1,6 @@
 <!-- Welcome Section -->
 <p align="center">
-  <img src="bammervica.jpg" alt="Vica's GitHub Banner">
+  <img src="bannergithub.png" alt="Vica's GitHub Banner">
 </p>
 
 <p align="center">
