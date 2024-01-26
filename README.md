@@ -12,7 +12,7 @@
 </p>
 
 <!-- About Me Section -->
-## 💬 About Me
+ 💬 About Me
 
 - 🎓 Currently studying at 42 Madrid, diving deep into the world of coding.
 - 💻 A collection of diverse projects awaits you, ranging from simple scripts to intricate applications, showcasing my skills across multiple languages and tools.
@@ -20,7 +20,7 @@
 - 🌍 Join me in exploring the endless possibilities of coding, and let's create something amazing together.
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <details>
   <summary><h4>📈 Click to expand Stats</h4></summary>
@@ -37,29 +37,29 @@
 </details>
 
 <!-- Hobbies Section -->
-## 📅 Hobbies
+ 📅 Hobbies
 
 - 🎨 Exploring new design trends.
 - ⚽ Passionate about sports.
 - 📸 Photography enthusiast.
 
 <!-- Current Project Section -->
-## 💻 Current Project
+ 💻 Current Project
 
 - 🔗 Check out my latest project [here](https://vittoric.github.io/).
 
 <!-- Learning Section -->
-## 📚 Learning
+ 📚 Learning
 
 - Always exploring new technologies and frameworks.
 
 <!-- How to Reach Me Section -->
-## 📫 How to Reach Me
+ 📫 How to Reach Me
 
 You can reach out to me at [vicoder.tech@gmail.com](mailto:vicoder.tech@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vcodrean/)
 
 <!-- Social Media Section -->
-## 🌐 Connect with Me
+ 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vcodrean/" target="_blank" ><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="LinkedIn"></a>
