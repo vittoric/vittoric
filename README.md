@@ -1,58 +1,78 @@
- <h1 align="center">Hello there, I'm Vica, and welcome to my GitHub repository! 👋</h1>
- 
- ## 💬 Aabout me
-As a student at 42 Madrid, I have a strong passion for coding and developing new projects, and this repository is a showcase of my latest work. <br>
+<!-- Welcome Section -->
+<p align="center">
+  <img src="https://your-image-url.com" alt="Vica's GitHub Banner">
+</p>
+<h1 align="center">👋 Hello there, I'm Vica!</h1>
 
-Here you'll find a diverse range of projects, from simple scripts to complex applications, covering various programming languages and tools. Some of the projects include detailed documentation and instructions for getting started, making them accessible to developers. <br>
+<p align="center">
+  <a href="https://vittoric.github.io/"><img src="https://img.shields.io/badge/Portfolio-Check%20it%20out!-brightgreen?style=for-the-badge" alt="Portfolio"></a>
+</p>
 
-Whether you're a seasoned developer or just starting out, I invite you to explore my code, fork the projects, and contribute as you see fit. With your help, we can create something truly amazing together. Thank you for stopping by, and happy coding! <br>
+<p align="center">
+  🚀 Welcome to my coding universe! As a passionate coder and student at 42 Madrid, I'm thrilled to share my latest projects and creations with you.
+</p>
 
-[![vcodrean's 42 stats](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
+<!-- About Me Section -->
+## 💬 About Me
 
- Project link 🔗🖥️ | Score✅ |
-|----------|---------|
-| [**Libft 🗄️**](https://github.com/vittoric/Libft) | [![vcodrean's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2815634)](https://github.com/JaeSeoKim/badge42) |
-| [**Ft_printf📝**](https://github.com/vittoric/ft_printf) | [![vcodrean's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2914472)](https://github.com/JaeSeoKim/badge42) |
-| **Born2beroot🦾** | [![vcodrean's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2851460)](https://github.com/JaeSeoKim/badge42) |
-| [**Get_next_line📌**](https://github.com/vittoric/get_next_line) | [![vcodrean's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2926283)](https://github.com/JaeSeoKim/badge42) |
-| **Exam rank02📣** | [![vcodrean's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2972442)](https://github.com/JaeSeoKim/badge42) |
-| [**Push_Swap🕹️**](https://github.com/vittoric/push_swap) | [![vcodrean's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/2989842)](https://github.com/JaeSeoKim/badge42) |
-| [**Pipex**](https://github.com/vittoric/pipex42) | [![vcodrean's 42 pipex Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/3016519)](https://github.com/JaeSeoKim/badge42) |
-| [**so_long**](https://github.com/vittoric/so_long42) | [![vcodrean's 42 so_long Score](https://badge42.vercel.app/api/v2/cl8tyc4p100490gl7xdv5vwb1/project/3036005)](https://github.com/JaeSeoKim/badge42) |
+- 🎓 Currently studying at 42 Madrid, diving deep into the world of coding.
+- 💻 A collection of diverse projects awaits you, ranging from simple scripts to intricate applications, showcasing my skills across multiple languages and tools.
+- 📚 Some projects come with detailed documentation, making them accessible and inviting for fellow developers.
+- 🌍 Join me in exploring the endless possibilities of coding, and let's create something amazing together.
 
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
 
+<details>
+  <summary><h4>📈 Click to expand Stats</h4></summary>
 
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoric&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vittoric&show_icons=true&hide_border=true&theme=algolia" alt="GitHub Stats">
+  </p>
+  <p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=vittoric.visitor-badge" alt="Visitor Badge">
+  </p>
+</details>
 
-## ▪️ Github stats 📊
-<details> <summary><h4>:rocket: Click me </h4></summary>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoric&layout=compact&theme=algolia&hide_border=true)
-
-![vittoric's github stats](https://github-readme-stats.vercel.app/api?username=vittoric&show_icons=true&hide_border=true&theme=algolia)
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vittoric.visitor-badge)
-  </details>
-
-
+<!-- Hobbies Section -->
 ## 📅 Hobbies
 
-- etc...
+- 🎨 Exploring new design trends.
+- ⚽ Passionate about sports.
+- 📸 Photography enthusiast.
 
-## 💻 Current project
+<!-- Current Project Section -->
+## 💻 Current Project
 
+- 🔗 Check out my latest project [here](https://vittoric.github.io/).
+
+<!-- Learning Section -->
 ## 📚 Learning
 
+- Always exploring new technologies and frameworks.
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
-<!--
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/Raymo111)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111) -->
+<!-- How to Reach Me Section -->
+## 📫 How to Reach Me
+
+You can reach out to me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+
+<!-- Social Media Section -->
+## 🌐 Connect with Me
 
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
+  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="LinkedIn"></a>
+  <a href="https://twitter.com/your-twitter-handle"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" alt="Twitter"></a>
+  <a href="https://instagram.com/your-instagram-handle"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" alt="Instagram"></a>
 </div>
+
+<div align="center">
+  <h3>Show some ❤️ by starring some of my repositories!</h3>
+</div>
+
+<!-- Footer Section -->
+<p align="center">
+  <img src="https://your-footer-image-url.com" alt="Footer Image">
+</p>
