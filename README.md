@@ -62,7 +62,7 @@ You can reach out to me at [vicoder.tech@gmail.com](mailto:vicoder.tech@gmail.co
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vcodrean/"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/vcodrean/" target="_blank" ><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="LinkedIn"></a>
 </div>
 
 <div align="center">
