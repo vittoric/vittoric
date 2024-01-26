@@ -56,15 +56,13 @@
 <!-- How to Reach Me Section -->
 ## 📫 How to Reach Me
 
-You can reach out to me at [vicoder.tech@gmail.com](mailto:vicoder.tech@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vcodrean/).
+You can reach out to me at [vicoder.tech@gmail.com](mailto:vicoder.tech@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vcodrean/)
 
 <!-- Social Media Section -->
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" alt="Twitter"></a>
-  <a href="https://instagram.com/your-instagram-handle"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/vcodrean/"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="LinkedIn"></a>
 </div>
 
 <div align="center">
