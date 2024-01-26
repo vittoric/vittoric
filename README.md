@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vittoric.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Check%20it%20out!-brightgreen?style=for-the-badge" alt="Portfolio"></a>{:target="_blank"}
+  <a href="https://vittoric.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Check%20it%20out!-brightgreen?style=for-the-badge" alt="Portfolio"></a>
 </p>
 
 <p align="center">
