@@ -71,5 +71,5 @@ You can reach out to me at [vicoder.tech@gmail.com](mailto:vicoder.tech@gmail.co
 
 <!-- Footer Section -->
 <p align="center">
-  <img src="https://your-footer-image-url.com" alt="Footer Image">
+  <img src="footer.png" alt="Footer Image">
 </p>
