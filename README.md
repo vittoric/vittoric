@@ -31,9 +31,6 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vittoric&show_icons=true&hide_border=true&theme=algolia" alt="GitHub Stats">
   </p>
-  <p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=vittoric.visitor-badge" alt="Visitor Badge">
-  </p>
 </details>
 
 <!-- Hobbies Section -->
@@ -46,7 +43,7 @@
 <!-- Current Project Section -->
 ## 💻 Current Project
 
-- 🔗 Check out my latest project [here](https://vittoric.github.io/).
+- 🔗 Check out my latest project [here](https://github.com/vittoric/Cashe).
 
 <!-- Learning Section -->
 ## 📚 Learning
