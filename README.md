@@ -15,6 +15,7 @@
 ## 💬 About Me
 
 - 🎓 Currently studying at 42 Madrid, diving deep into the world of coding.
+- 📍 Part of H.E.R DAO Spain
 - 💻 A collection of diverse projects awaits you, ranging from simple scripts to intricate applications, showcasing my skills across multiple languages and tools.
 - 📚 Some projects come with detailed documentation, making them accessible and inviting for fellow developers.
 - 🌍 Join me in exploring the endless possibilities of coding, and let's create something amazing together.
