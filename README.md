@@ -3,9 +3,11 @@
   <img src="bannergithub.png" alt="Vica's GitHub Banner">
 </p>
 
+
+<!-- Portafolio
 <p align="center">
   <a href="https://vicoder-tech.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out!-brightgreen?style=for-the-badge" alt="Portfolio"></a>
-</p>
+</p> -->
 
 <p align="center">
   🚀 Welcome to my coding universe! As a passionate coder and student at 42 Madrid, I'm thrilled to share my latest projects and creations with you.
